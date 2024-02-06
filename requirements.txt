@@ -21,7 +21,6 @@ google-auth==2.24.0
 google-auth-oauthlib==1.1.0
 greenlet==1.1.0
 gspread==5.12.1
-hidpidaemon==18.4.6
 httplib2==0.20.2
 idna==3.6
 importlib-metadata==4.6.4
