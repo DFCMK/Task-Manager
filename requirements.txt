@@ -4,7 +4,6 @@ cachetools==5.3.2
 certifi==2023.11.17
 chardet==4.0.0
 charset-normalizer==3.3.2
-chrome-gnome-shell==0.0.0
 cliapp==1.20180812.1
 click==8.1.7
 cmdtest==0.32+git
